@@ -64,7 +64,7 @@ public class medico {
     public void setSueld(double sueld) {
         this.sueld = sueld;
     }
-    
+     
     
     
 }
